@@ -1,2 +1,2 @@
 # TROUDBALE1
-Swift Project for TMS communicatin
+Swift Project for TMS communication
